@@ -1,6 +1,6 @@
 /*NAVIGATION BAR CSS*/
 #main-navbar {
-background-color: blue;
+background-color: #ADADA8;
 overflow: hidden;
 }
 
@@ -35,4 +35,8 @@ display: block;
 }
 #onpage {
  text-decoration: underline overline;
+}
+
+body {
+  background-color: #D7BABA;
 }
