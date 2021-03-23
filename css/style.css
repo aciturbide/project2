@@ -40,9 +40,9 @@ display: block;
 body {
   background-color: #D7BABA;
 }
-h1 {
+h1,h2,h3{
   font-family: 'Indie Flower', cursive;
 }
-h2 {
-  font-family: 'Indie Flower', cursive;
+p,h4,ul,li {
+  font-family: 'Raleway', sans-serif;
 }
