@@ -40,8 +40,12 @@ display: block;
 body {
   background-color: #D7BABA;
 }
+h1 {
+   text-decoration: underline;
+}
 h1,h2,h3{
   font-family: 'Indie Flower', cursive;
+  font-style: italic;
 }
 p,h4,ul,li {
   font-family: 'Raleway', sans-serif;
