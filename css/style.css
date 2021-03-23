@@ -45,13 +45,16 @@ body {
 /*FONT/TEXT DECORATION CSS*/
 h1 {
    text-decoration: underline;
+   color: #000000;
 }
 h1,h2,h3,h4{
   font-family: 'Indie Flower', cursive;
   font-style: italic;
+  color: #383838;
 }
 p,ul,li {
   font-family: 'Raleway', sans-serif;
+  color: #585858;
 }
 /*GALLERY CSS- INTERESTS + HOBBIES PAGE*/
 
