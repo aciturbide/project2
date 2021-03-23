@@ -46,12 +46,13 @@ body {
 #header {
   font-family: 'Sacramento', cursive;
   font-size: 300px;
+  text-align: center;
 }
 #subtitle {
    text-decoration: underline;
    color: #000000;
 }
-h1,h2,h3,h4{
+h2,h3,h4{
   font-family: 'Indie Flower', cursive;
   font-style: italic;
   color: #383838;
