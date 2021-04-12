@@ -87,10 +87,10 @@ div.desc {
   text-align: center;
 }
 #phone {
-  width: "50";
-  height: "32";
+  width: 50px;
+  height: 32px;
 }
 #email {
-  width:"50";
-  height:"30";
+  width:50px;
+  height:30px;
 }
