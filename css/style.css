@@ -73,8 +73,8 @@ div.gallery {
   height: 200px;
 }
 #phone {
-  width: "50";
-  height: "32";
+  width: 50%;
+  height: 32%;
 }
 div.gallery:hover {
   border: 1px solid #777;
