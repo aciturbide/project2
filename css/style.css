@@ -57,7 +57,7 @@ body {
 h1,h2,h3,h4{
   font-family: 'Indie Flower', cursive;
   font-style: italic;
-  color: black;
+  color: #383838;
 }
 p,ul,li {
   font-family: 'Raleway', sans-serif;
@@ -72,10 +72,7 @@ div.gallery {
   width: 180px;
   height: 200px;
 }
-#phone {
-  width: 50%;
-  height: 32%;
-}
+
 div.gallery:hover {
   border: 1px solid #777;
 }
